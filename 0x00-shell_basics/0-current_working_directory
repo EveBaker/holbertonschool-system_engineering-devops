@@ -1,7 +1,2 @@
 #!/bin/bash
-echo$0
-full_path=$(realpath $0)
-echo $full_path
-dir_path=$(dirname $full_path)
-echo $dir_path
- 
+SCRIPTPATH="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )" 
