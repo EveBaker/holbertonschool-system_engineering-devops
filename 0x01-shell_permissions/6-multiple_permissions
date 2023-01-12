@@ -1,2 +1,2 @@
 #!/bin/bash
-group +r hello
+group + r- hello
