@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltr | tail -10
+find  -type f -mtime 10 | ls -ltsha | tail -n 10
