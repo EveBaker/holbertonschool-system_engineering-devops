@@ -1,1 +1,18 @@
-Shell Redirections
+total 52
+drwxr-xr-x 2 root root 325 Jan 16 07:43 .
+drwxr-xr-x 6 root root 136 Jan 13 09:08 ..
+-rwxr--r-- 1 root root  30 Jan 13 09:14 0-hello_world
+-rwxr--r-- 1 root root  31 Jan 15 20:37 1-confused_smiley
+-rwxr--r-- 1 root root  28 Jan 13 09:27 2-hellofile
+-rwxr--r-- 1 root root  39 Jan 13 09:30 3-twofiles
+-rwxr--r-- 1 root root  33 Jan 13 09:35 4-lastlines
+-rwxr--r-- 1 root root  33 Jan 13 09:37 5-firstlines
+-rwxr--r-- 1 root root  42 Jan 13 09:40 6-third_line
+-rwxr--r-- 1 root root  99 Jan 15 20:26 7-file
+-rwxr--r-- 1 root root  36 Jan 16 07:43 8-cwd_state
+-rwxr--r-- 1 root root  29 Jan 15 21:03 9-duplicate_last_line
+-rw-r--r-- 1 root root   0 Jan 15 20:18  \*\'Best
+-rw-r--r-- 1 root root  12 Jan 15 20:26 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root 801 Jan 15 21:04 iacta
+-rw-r--r-- 1 root root   0 Jan 16 07:43 ls_cwd_content
+-rw-r--r-- 1 root root  19 Jan 13 09:12 README.md
