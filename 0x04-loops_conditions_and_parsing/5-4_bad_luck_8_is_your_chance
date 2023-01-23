@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+i=1
+while [ $i -le 10 ]
+do
+echo"Best School"
+i=$(( i+1 ))
+if [ $i == 4 ]
+then echo "bad luck"
+elif [[ $i -le 9 && $i -gt 7 ]]
+then echo "good luck"
+else
+((i++))
+fi
+done
