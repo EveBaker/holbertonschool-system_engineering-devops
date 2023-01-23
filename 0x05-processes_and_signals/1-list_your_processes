@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-ps -a 
+#display list of current running processes
+ps -aux | less
