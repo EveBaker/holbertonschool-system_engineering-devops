@@ -1,10 +1,11 @@
 #!/usr/bin/env bash
 #clock
 h=0
+m=1
 while [ "$h" -le 12 ]
 do 
    echo "hour: $h"
-    m=1
+       m=1
       while [ $m -le 59 ]
         do 
 	   echo "$m"
