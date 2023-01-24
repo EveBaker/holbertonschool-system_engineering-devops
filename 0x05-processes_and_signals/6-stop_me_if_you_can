@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
 #killing without killing
-pkill -f "./4-to_infinity_and_beyond"#!/usr/bin/env bash
-
+pkill -f "./4-to_infinity_and_beyond"
