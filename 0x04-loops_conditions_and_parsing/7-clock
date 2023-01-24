@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#clock
 h=0
 while [ "$h" -le 12 ]
 do 
