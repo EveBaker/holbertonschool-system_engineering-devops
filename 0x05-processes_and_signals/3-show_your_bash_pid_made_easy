@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 #show your bash pid made easy
-echo "$_pid" > bash
+jobs -p bash
