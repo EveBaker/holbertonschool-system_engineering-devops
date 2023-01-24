@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#fizzbuzz
+for number from 1 to 100:
+  if (number is divisible by 3 and 5) then:
+    print("FizzBuzz")
+  if (number is divisible by 3) then:
+    print("Fizz")
+  if (number is divisible by 5) then:
+    print("Buzz")
