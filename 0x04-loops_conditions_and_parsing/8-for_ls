@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-#listing files
-for f in *; do echo $f | cut -d'-' -f2
+#contents of directory
+for f in *; do 
+echo $f | cut -d'-' -f2
 done
